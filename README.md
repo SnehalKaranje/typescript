@@ -12,3 +12,7 @@ https://www.linkedin.com/learning/typescript-essential-training
 - Destructuring
 - The spread operator
 - Computed properties
+
+### Type Fundamentals
+- Union types
+- Function overloading
