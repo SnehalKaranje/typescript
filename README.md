@@ -8,4 +8,7 @@ https://www.linkedin.com/learning/typescript-essential-training
 - Template Strings
 - Variable declaration - var, let, const
 - For of Loops
-- Lambdas - Arrow functions 
+- Lambdas - Arrow functions
+- Destructuring
+- The spread operator
+- Computed properties
