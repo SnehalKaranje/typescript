@@ -28,3 +28,8 @@ You can either copy paste the code in any online editor or playground and execut
 ### Type Fundamentals
 - Union types
 - Function overloading
+
+### Custom Types
+- Interfaces
+- Enums
+- Anonymous Types
