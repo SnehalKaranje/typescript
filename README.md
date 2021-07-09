@@ -33,3 +33,15 @@ You can either copy paste the code in any online editor or playground and execut
 - Interfaces
 - Enums
 - Anonymous Types
+
+### Classes
+- Prototypical Inheritance Simplified
+- Accessors
+- Abstract Classes and Methods
+- Inheritance
+- Interfaces
+
+### Generics
+- Functions
+- Classes
+- Constraints
