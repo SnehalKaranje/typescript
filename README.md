@@ -45,3 +45,10 @@ You can either copy paste the code in any online editor or playground and execut
 - Functions
 - Classes
 - Constraints
+
+### Modules
+- Internal Modules
+  - namespace
+- External Modules
+  - Common js syntax
+  - ECMA script syntax
