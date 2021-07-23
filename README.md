@@ -52,3 +52,9 @@ You can either copy paste the code in any online editor or playground and execut
 - External Modules
   - Common js syntax
   - ECMA script syntax
+
+### Real world Application
+- Bits and pieces of code that has been used throughout the course is combined together to build a real world TODO application
+
+### Decorators
+- Real world TODO application with method, class and property decorators
