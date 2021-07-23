@@ -1,6 +1,6 @@
 # General Info
 The repository contains code implemented to get better understanding of various topics covered in course:
-https://www.linkedin.com/learning/typescript-essential-training
+<a href="https://www.linkedin.com/learning/typescript-essential-training">TypeScript Essential Training</a> by <a href="https://github.com/jchadwick">Jess Chadwick</a>
 
 ## Technologies
 * <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-4.3.5-blue"/></a>
